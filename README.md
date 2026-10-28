@@ -1,7 +1,6 @@
 # Hi, I'm Mohamed 👋
 
-**Software Development student @ Zewail City** · Gaming & Computer Graphics concentration
-Aspiring **gameplay / graphics programmer**.
+Game dev student @ Zewail City · Building an OpenGL game engine in C++ (ECS, shaders, lighting) · Gameplay & graphics programming
 
 ## What I work with
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
